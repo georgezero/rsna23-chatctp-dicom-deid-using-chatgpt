@@ -1,8 +1,8 @@
-# RSNA 2023 Annual Meeting - Deep Learning Lab
+# ChatCTP - DICOM de-identification using ChatGPT (Beginner Friendly)
 
-## DLL06: ChatCTP - DICOM de-identification using ChatGPT (Beginner Friendly)
+## RSNA 2023 Annual Meeting - Deep Learning Lab - DLL06
 
-![QR Code for RSNA23 DeID Session Info](https://github.com/georgezero/siim23-session-data-deidentification/assets/12178283/dad5680e-4ac5-459c-ba1a-a9f39c022679)
+![QR Code for RSNA23 DeID Session](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/83d16283-f821-400e-9ebe-837cdd2dcfee)
 
 ### (This page: https://siim.skp.one/rsna23-deid)
 
