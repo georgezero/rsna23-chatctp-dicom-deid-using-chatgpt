@@ -2,9 +2,9 @@
 
 ## RSNA 2023 Annual Meeting - Deep Learning Lab - DLL06
 
-![QR Code for RSNA23 DeID Session](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/83d16283-f821-400e-9ebe-837cdd2dcfee)
+![QR Code for RSNA23 DeID Session](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/bf0880da-0668-4f4c-adb6-4051bda110df)
 
-### (This page: https://siim.skp.one/rsna23-deid)
+### (This page: https://ai.skp.one/rsna23-deid)
 
 **Speakers**
 
@@ -14,6 +14,33 @@
 - Chinmay Singhal
 - Hui-Min Lin
 
+1. Session Intro (DeID intro) - Adam
+   
+2. DICOM intro (DICOM tag deid issues) - Errol
+   
+3. Hands-On DICOM tags -- either Innolitics or Fake DICOM tags in GPT-4 (Errol + Hui-Ming)
+
+**DICOM Tag Exploration in Browser**
+
+(pre-DeID) https://dicom.innolitics.com/ciods?example=rsna-2021-CXR_1_Pre_Processed.dcm		
+
+(post-DeID) https://dicom.innolitics.com/ciods?example=rsna-2021-CXR_1_Post_Processed.dcm		
+
+**DICOM Tags Exploration with ChatGPT and other LLMs**
+
+(pre-DeID) https://chat.md.ai/chat/share/report_gRVKRp360P 
+
+(post-DeID) https://chat.md.ai/chat/share/report_RnbQZxgmkN 
+
+4. Hands-On GPT-4 script for DeID -- using Orthanc exams (Chinmay + Hui-Ming)
+
+5. New Anonymizer Demo - Adam
+
+6. MIDRC deid process - George
+
+7. Pixel deid - Chinmay 
+
+-- OLD --
 
 A. DICOM Intro and Tags Exploration 
 
