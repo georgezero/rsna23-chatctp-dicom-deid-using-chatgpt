@@ -1,30 +1,28 @@
-# ChatCTP - DICOM de-identification using ChatGPT (Beginner Friendly)
+# ChatCTP: DICOM De-Identification Using ChatGPT
 
-## RSNA 2023 Annual Meeting - Deep Learning Lab - DLL06
+### RSNA 2023 Deep Learning Lab - DLL06
+
+**Monday 11/27/2023 12:00:00 PM CST**
 
 ![QR Code for RSNA23 DeID Session](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/bf0880da-0668-4f4c-adb6-4051bda110df)
 
-### (This page: https://ai.skp.one/rsna23-deid)
+### ^ QR code link for page: https://ai.skp.one/rsna23-deid)
 
-**Speakers**
+## Speakers
 
-- Adam Flanders
-- Errol Colak 
-- George Shih 
 - Chinmay Singhal
 - Hui-Min Lin
+- Errol Colak 
+- Adam Flanders
+- George Shih
 
-1. Session Intro (DeID intro) - Adam
+## Outline
+
+### 1. Session Intro (DeID intro) - Adam
    
-2. DICOM intro (DICOM tag deid issues) - Errol
+### 2. DICOM intro (DICOM tag deid issues) - Errol
    
-3. Hands-On DICOM tags -- either Innolitics or Fake DICOM tags in GPT-4 (Errol + Hui-Ming)
-
-**DICOM Tag Exploration in Browser**
-
-(pre-DeID) https://dicom.innolitics.com/ciods?example=rsna-2021-CXR_1_Pre_Processed.dcm		
-
-(post-DeID) https://dicom.innolitics.com/ciods?example=rsna-2021-CXR_1_Post_Processed.dcm		
+### 3. [Hands-On] DICOM Tags Exploration with LLMs - Errol + Hui-Ming
 
 **DICOM Tags Exploration with ChatGPT and other LLMs**
 
@@ -32,37 +30,28 @@
 
 (post-DeID) https://chat.md.ai/chat/share/report_RnbQZxgmkN 
 
-4. Hands-On GPT-4 script for DeID -- using Orthanc exams (Chinmay + Hui-Ming)
+### 4. [Hands-On] Python Notebook For DeID (coded by GPT-4) - Chinmay + Hui-Ming
 
-5. New Anonymizer Demo - Adam
+This URL forwards to the latest Google Colab notebook for DICOM deid coded by GPT-4.
 
-6. MIDRC deid process - George
+https://ai.skp.one//rsna23-deid-dll-colab-notebook
 
-7. Pixel deid - Chinmay 
+:bulb: Example of python notebook output:
 
--- OLD --
+![image](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/dc6e2988-14a3-4c11-bf12-4517a026d6ad)
 
-A. DICOM Intro and Tags Exploration 
+![image](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/4166b742-2a9c-49a7-bf4f-d2d1a033006d)
 
-1. Introduction to DICOM
+### 5. [Hands-On] More DICOM DeID with GPT-4 - Chinmay
 
-Slides: https://siim.skp.one/deid-dicom-intro
+https://ai.skp.one//rsna23-deid-gpt4
 
-2. RSNA MIDRC Deid Workflow
+### 6. Wrap-Up - George
 
-Slides: https://siim.skp.one/deid-rsna-midrc-data-workflow
+### 7. [BONUS] DICOM Pixel DeID using AI - Chinmay 
 
-B. DICOM Tag DeID with CTP / Anonymizer and GPT-4
+[https://docs.google.com/presentation/d/e/2PACX-1vQsB-kmwnIVpN6Fw6fuxg946GNNrTq908JGPdS1fTq0-YBmXJ5UPIPsVaoBWWKZb1h_xzQT9SLS2Ip-/pub](Slides)
 
-https://colab.research.google.com/gist/georgezero/13e74001e0d928f773c6bdd887b71b02/hands-on-dicom-tag-deid-with-gpt-4.ipynb
+[Hands On] https://public.md.ai/annotator/project/QGR7ogRK?clone=1 
 
-C. DICOM Pixel DeID using AI
-
-https://docs.google.com/presentation/d/e/2PACX-1vQsB-kmwnIVpN6Fw6fuxg946GNNrTq908JGPdS1fTq0-YBmXJ5UPIPsVaoBWWKZb1h_xzQT9SLS2Ip-/pub
-
-https://public.md.ai/annotator/project/QGR7ogRK?clone=1 (Hands On)
-
-D. GPT-4 help for DeID
-
-https://siim.skp.one/deid-gpt4
 
