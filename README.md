@@ -49,7 +49,7 @@ https://ai.skp.one/rsna23-deid-dll-colab-notebook
 
 ### 5. [Hands-On] More DICOM DeID with GPT-4 - Chinmay
 
-https://ai.skp.one//rsna23-deid-gpt4
+https://ai.skp.one/rsna23-deid-gpt4
 
 ### 6. Wrap-Up - George
 
