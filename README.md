@@ -37,7 +37,7 @@
 
 ### 4. [Hands-On] Python Notebook For DeID (coded by GPT-4) - Chinmay + Hui-Ming
 
-This URL forwards to the latest Google Colab notebook for DICOM deid coded by GPT-4.
+This URL forwards to the latest Google Colab notebook for DICOM DeID coded by GPT-4.
 
 https://ai.skp.one/rsna23-deid-dll-colab-notebook
 
