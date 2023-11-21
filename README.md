@@ -10,10 +10,10 @@
 
 ## Speakers
 
-- Chinmay Singhal
-- Hui-Min Lin
-- Errol Colak 
 - Adam Flanders
+- Errol Colak
+- Hui-Min Lin
+- Chinmay Singhal
 - George Shih
 
 ## Outline
