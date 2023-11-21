@@ -1,6 +1,6 @@
 # ChatCTP: DICOM De-Identification Using ChatGPT
 
-### RSNA 2023 Deep Learning Lab - DLL06
+### [RSNA 2023 Deep Learning Lab](https://github.com/RSNA/AI-Deep-Learning-Lab-2023) - DLL06
 
 **Monday 11/27/2023 12:00:00 PM CST**
 
