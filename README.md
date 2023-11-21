@@ -6,7 +6,7 @@
 
 ![QR Code for RSNA23 DeID Session](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/bf0880da-0668-4f4c-adb6-4051bda110df)
 
-### ^ QR code link for page: https://ai.skp.one/rsna23-deid)
+### ^ QR code link for this page: https://ai.skp.one/rsna23-deid)
 
 ## Speakers
 
@@ -30,11 +30,16 @@
 
 (post-DeID) https://chat.md.ai/chat/share/report_RnbQZxgmkN 
 
+:bulb: Example of DICOM tags exploration with LLMs:
+
+![image](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/2964d436-17c1-4a97-8495-135b9f5fca1d)
+
+
 ### 4. [Hands-On] Python Notebook For DeID (coded by GPT-4) - Chinmay + Hui-Ming
 
 This URL forwards to the latest Google Colab notebook for DICOM deid coded by GPT-4.
 
-https://ai.skp.one//rsna23-deid-dll-colab-notebook
+https://ai.skp.one/rsna23-deid-dll-colab-notebook
 
 :bulb: Example of python notebook output:
 
@@ -50,7 +55,7 @@ https://ai.skp.one//rsna23-deid-gpt4
 
 ### 7. [BONUS] DICOM Pixel DeID using AI - Chinmay 
 
-[https://docs.google.com/presentation/d/e/2PACX-1vQsB-kmwnIVpN6Fw6fuxg946GNNrTq908JGPdS1fTq0-YBmXJ5UPIPsVaoBWWKZb1h_xzQT9SLS2Ip-/pub](Slides)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vQsB-kmwnIVpN6Fw6fuxg946GNNrTq908JGPdS1fTq0-YBmXJ5UPIPsVaoBWWKZb1h_xzQT9SLS2Ip-/pub)
 
 [Hands On] https://public.md.ai/annotator/project/QGR7ogRK?clone=1 
 
