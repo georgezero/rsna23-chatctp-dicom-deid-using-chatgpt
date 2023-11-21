@@ -39,7 +39,7 @@
 
 This URL forwards to the latest Google Colab notebook for DICOM DeID coded by GPT-4.
 
-https://ai.skp.one/rsna23-deid-dll-colab-notebook
+https://ai.skp.one/rsna23-deid-colab-notebook
 
 :bulb: Example of python notebook output:
 
