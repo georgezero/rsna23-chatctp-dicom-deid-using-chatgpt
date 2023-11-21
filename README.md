@@ -6,7 +6,7 @@
 
 ![QR Code for RSNA23 DeID Session](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/assets/12178283/bf0880da-0668-4f4c-adb6-4051bda110df)
 
-### ^ QR code link for this page: https://ai.skp.one/rsna23-deid)
+### ^ QR code link for this page: https://ai.skp.one/rsna23-deid
 
 ## Speakers
 
